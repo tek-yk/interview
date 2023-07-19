@@ -17,7 +17,7 @@ const About = () => (
         <li>Adding a basic form to get query parameters</li>
         <li>Adding a basic listing to display results</li>
         <li>Adding a basic pagination to limit results</li>
-        <li>Introducing typescript for styling</li>
+        <li>Introducing tailwindcss for styling</li>
         <li>Introducing routing</li>
       </ol>
       <h5 className="mt-2">Other Topics</h5>
